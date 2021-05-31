@@ -1,0 +1,39 @@
+body {
+    font-size: 1.5rem;
+}    
+
+h1 {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+section { 
+    display: block;
+    float: left;
+    width: auto;
+    padding-top: 0px;
+    padding: 20px;
+    height: auto;
+    background-color: rgba(173, 189, 189, 0.24);
+    float: right;
+    margin-right: 30%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1.5rem;
+}
+
+input {
+    font-size: 1.4rem;
+}
+
+select {
+    font-size: 1.4rem;
+}
+
+input.boton {
+    font-size: 1.75rem;
+    color: white;
+    background-color: blue;
+    float: right;
+}
